@@ -1,0 +1,16 @@
+.important-text {
+  background-color: #ffb8c2;
+  font-family: Verdana, Dejavu Sans, sans-serif;
+}
+.bigger-text {
+  font-size: 24px;
+}
+#number2 {
+  color: #0000ff;
+  font-size: 36px;
+}
+#number4 {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
